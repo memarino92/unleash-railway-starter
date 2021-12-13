@@ -1,0 +1,14 @@
+{
+  "name": "unleash-railway-starter",
+  "version": "1.0.0",
+  "description": "Deploy your own Unleash instance on Railway",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "unleash-server": "^4.4.0"
+  }
+}
