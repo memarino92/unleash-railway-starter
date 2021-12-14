@@ -4,10 +4,10 @@
   "description": "Deploy your own Unleash instance on Railway",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Michael Marino",
+  "license": "Apache-2.0",
   "dependencies": {
     "unleash-server": "^4.4.0"
   }
