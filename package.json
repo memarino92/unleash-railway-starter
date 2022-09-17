@@ -9,6 +9,6 @@
   "author": "Michael Marino",
   "license": "Apache-2.0",
   "dependencies": {
-    "unleash-server": "^4.4.0"
+    "unleash-server": "^4.15.3"
   }
 }
